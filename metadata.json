@@ -1,0 +1,6 @@
+{
+  "name": "Раскраска",
+  "description": "Полноценное одностраничное веб-приложение для раскрашивания с векторными шаблонами, заливкой, пипеткой и автосохранением.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
